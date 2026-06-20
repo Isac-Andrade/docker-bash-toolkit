@@ -7,6 +7,6 @@ if [ "$USO" -gt 80 ] ; then
   echo "ALERTA: disco em $USO% de uso"
 
 else
-  echo "OK: dico em $USO% de uso"
+  echo "OK: disco em $USO% de uso"
 
 fi
