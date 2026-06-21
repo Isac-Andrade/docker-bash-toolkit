@@ -13,18 +13,18 @@ echo "você escolehu: $OPCAO"
 case $OPCAO in
     1)
       echo "rodando disco..."
-      ./scripts/disk-monitor.sh
+      ./Scripts/disk-monitor.sh
       ;;
     2)
       echo "rodando site..."
-      ./scripts/helthcheck.sh
+      ./Scripts/helthcheck.sh
       ;;
     3)
       echo "executando backup"
-      ./scripts/backup.sh
+      ./Scripts/backup.sh
       ;;
     4)
       echo "Lipando logs"
-      ./scripts/log-clean.sh
+      ./Scripts/log-clean.sh
       ;;
 esac
