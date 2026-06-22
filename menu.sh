@@ -27,4 +27,11 @@ case $OPCAO in
       echo "Lipando logs"
       ./Scripts/log-clean.sh
       ;;
+
+    *)
+
+      echo "Opção inválida. Escolha entre 1 e 4."
+      ;;
 esac
+
+
