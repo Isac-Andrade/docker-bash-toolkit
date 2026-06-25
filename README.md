@@ -7,7 +7,7 @@ Um toolkit pequeno rodando em container para resolver os problemas grandes de ma
 Este projeto foi criado para solucionar um problema comum de manutenções de servidores ou máquinas no dia a dia.
 O foco principal é automatizar tarefas repetitivas de manutenção que, se esquecidas, viram dor de cabeça.
 
-Criei 4 scripts de manutenção, com menu interativo, que cobrem situações reais:
+       Criei 4 scripts de manutenção, com menu interativo, que cobrem situações reais:
 
 | Script | O que faz |
 |---|---|
